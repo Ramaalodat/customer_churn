@@ -29,9 +29,7 @@ By analyzing comprehensive employee-related data, this project translates raw wo
 
 > Standard toolkit utilized in this data science workflow.
 - **Data Manipulation:** `pandas`, `numpy`
-- **Visualization:** `matplotlib`, `seaborn`, `plotly`
-- **Machine Learning:** `scikit-learn`, `XGBoost`, `LightGBM`
-- **Environment:** Jupyter Notebook
+- **Environment:** Kaggle Notebook
 
 ---
 
@@ -45,26 +43,6 @@ The foundation of this project is a robust dataset originally focused on churn, 
 | **Volume** | 200,000 Records (`employee_churn_200k.csv`) |
 | **Target Variable** | `Attrition` (Binary: *Likely to Stay* / *Likely to Leave*) |
 | **Domain** | Human Resources / Workforce Analytics |
-
----
-
-## 🚀 Getting Started
-
-Instructions on how to set up the environment, train the model, and run inference will be documented here as the codebase evolves.
-
-```bash
-# Clone the repository
-git clone <repository_url>
-
-# Navigate to the project directory
-cd customer_churn
-
-# Install required dependencies
-pip install -r requirements.txt
-
-# Launch the notebook
-jupyter notebook
-```
 
 ---
 
